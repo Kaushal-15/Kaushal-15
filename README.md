@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning WEB DEV...
 - 📫 How to reach me kaushalshanmugam15@gmail.com
 - 👀 Strive for the progress,not for the perfection 🔥
-- 
 -👨‍🎓 Student
 
 
