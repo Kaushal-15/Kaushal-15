@@ -2,7 +2,8 @@
 - 😶‍🌫️  kaushalShanmugam
 - 🌱 I’m currently learning WEB DEV...
 - 📫 How to reach me kaushalshanmugam15@gmail.com
-- 👀 Strive for the progress,not for the perfection 🔥     
+- 👀 Strive for the progress,not for the perfection 🔥
+- linkedin https://www.linkedin.com/in/s-kaushal-a8033a2a5   
 -👨‍🎓 Student
 
 
