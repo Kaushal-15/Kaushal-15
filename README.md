@@ -1,7 +1,6 @@
 # 💫 About Me:
 Hi, I’m @Kaushal-15,<br>😶‍🌫️ kaushalShanmugam<br>🌱 I’m currently learning WEB DEV...<br>📫 How to reach me kaushalshanmugam15@gmail.com<br>👀 Strive for the progress,not for the perfection 🔥<br>linkedin https://www.linkedin.com/in/s-kaushal-a8033a2a5<br>-👨‍🎓 Student
 
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/s._.kaushal) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/S.Kaushal) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/S.kaushal) 
 
