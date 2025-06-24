@@ -12,10 +12,3 @@ Hi, I’m @Kaushal-15,<br>😶‍🌫️ kaushalShanmugam<br>🌱 I’m currentl
 ![](https://nirzak-streak-stats.vercel.app/?user=Kaushal-15&theme=onedark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Kaushal-15&theme=onedark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Kaushal-15&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
----
-[![](https://visitcount.itsvg.in/api?id=Kaushal-15&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
