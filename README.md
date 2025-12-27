@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on **Learning.ai (Personalized Skills Advisor)**  <br>🌱 I’m learning **DSA, Flutter, AI, and Cybersecurity**  <br>👯 I’m looking to collaborate on **Open Source and Startup Projects**  <br>💻 Dedicated **MERN Stack Developer** passionate about building scalable web apps  <br>🎯 My goal: To become an **SDE at FAANG or higher companies**  <br>⚡ Fun fact: I break things just to learn how to fix them 😎  <br>🎓 17 y/o teen chasing big dreams in tech 🚀  <br>
+🔭 I’m currently working on **Learning.ai (Personalized Skills Advisor)**  <br>🌱 I’m learning **DSA, Flutter, AI, and Cybersecurity**  <br>👯 I’m looking to collaborate on **Open Source and Startup Projects**  <br>💻 Dedicated **MERN Stack Developer** passionate about building scalable web apps  <br>🎯 My goal: To become an **SDE at FAANG or higher companies**  <br>⚡ Fun fact: I break things just to learn how to fix them 😎  <br>🎓 18 y/o teen chasing big dreams in tech 🚀  <br>
 
 
 ## 🌐 Socials:
