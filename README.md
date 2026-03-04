@@ -1,18 +1,96 @@
-# 💫 About Me:
-🔭 I’m currently working on **Learning.ai (Personalized Skills Advisor)**  <br>🌱 I’m learning **DSA, Flutter, AI, and Cybersecurity**  <br>👯 I’m looking to collaborate on **Open Source and Startup Projects**  <br>💻 Dedicated **MERN Stack Developer** passionate about building scalable web apps  <br>🎯 My goal: To become an **SDE at FAANG or higher companies**  <br>⚡ Fun fact: I break things just to learn how to fix them 😎  <br>🎓 18 y/o teen chasing big dreams in tech 🚀  <br>
+# Hi 👋, I'm Kaushal S
 
+### 🚀 Aspiring Software Engineer | AI & Backend Developer
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/s-kaushal-a8033a2a5) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kaushalshanmugam15@gmail.com) 
+I’m a passionate developer currently building **AI-powered platforms and scalable web applications**.
+I enjoy working on **AI systems, backend architectures, and developer tools** while continuously learning new technologies.
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Inkscape](https://img.shields.io/badge/Inkscape-e0e0e0?style=for-the-badge&logo=inkscape&logoColor=080A13) ![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Kaushal-15&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Kaushal-15&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Kaushal-15&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<p align="left">
+<img src="https://komarev.com/ghpvc/?username=Kaushal-15&label=Profile%20views&color=0e75b6&style=flat" alt="Kaushal-15" />
+</p>
+
+<p align="left">
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+<img src="https://github-profile-trophy.vercel.app/?username=Kaushal-15&theme=algolia&margin-w=10&margin-h=10" alt="Kaushal-15" />
+</a>
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Kaushal-15&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# 💡 About Me
+
+* 🔭 I’m currently working on
+  **AI-powered learning platforms (Learning.AI) and MERN Stack applications**
+
+* 🌱 I’m currently learning
+  **System Design for scalable applications and Agentic AI**
+
+* 👯 I’m looking to collaborate on
+  **AI-powered developer tools and open-source backend projects**
+
+* 🤝 I’m looking for help with
+  **Building production-level backend architectures**
+
+* 💬 Ask me about
+  **AI-powered web applications, React, and backend development**
+
+* 📫 How to reach me
+  **[kaushalshanmugam15@gmail.com](mailto:kaushalshanmugam15@gmail.com)**
+
+* 👨‍💻 Portfolio
+  **https://kaushaldev.qzz.io/**
+
+* ⚡ Fun fact
+  **I enjoy turning complex ideas into real products 🚀**
+
+---
+
+# 🌐 Connect With Me
+
+<p align="left">
+
+<a href="https://github.com/Kaushal-15" target="_blank">
+<img src="https://skillicons.dev/icons?i=github" width="40" height="40"/>
+</a>
+
+<a href="https://linkedin.com/in/kaushalshanmugam" target="_blank">
+<img src="https://skillicons.dev/icons?i=linkedin" width="40" height="40"/>
+</a>
+
+<a href="https://kaggle.com/skaushal15" target="_blank">
+<img src="https://skillicons.dev/icons?i=kaggle" width="40" height="40"/>
+</a>
+
+<a href="https://leetcode.com/PCYJwd2j68" target="_blank">
+<img src="https://skillicons.dev/icons?i=leetcode" width="40" height="40"/>
+</a>
+
+</p>
+
+---
+
+# 🛠️ Languages & Tools
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=c,cpp,python,java,js,ts,html,css,react,nodejs,express,mongodb,mysql,postgres,docker,linux,git,aws,nginx,redis,kafka,rabbitmq,figma,flutter,firebase,postman" />
+
+</p>
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Kaushal-15&show_icons=true&theme=tokyonight" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Kaushal-15&theme=tokyonight" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaushal-15&layout=compact&theme=tokyonight" />
+
+</p>
+
+---
+
+⭐ **“Code. Build. Learn. Repeat.”**
