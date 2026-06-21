@@ -155,8 +155,6 @@ const kaushal = {
 
 <div align="center">
 
-*"Code. Build. Learn. Repeat."* 🚀
-
 **Open to internship and collaboration opportunities — let's build something great!**
 
 </div>
