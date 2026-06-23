@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hey, I'm Kaushal S 👋
+# Hey, I'm Kaushal.S 👋
 ### Full Stack Developer · AI Systems Builder · Open Source Enthusiast
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=6C63FF&center=true&vCenter=true&width=500&lines=Building+AI-powered+web+applications;MERN+Stack+%2B+Next.js+Developer;NLP+%7C+LLMs+%7C+Agentic+AI+Explorer;Turning+complex+ideas+into+real+products+%F0%9F%9A%80)](https://git.io/typing-svg)
