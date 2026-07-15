@@ -3,7 +3,7 @@
 # Hey, I'm Kaushal.S 👋
 ### Full Stack Developer · AI Systems Builder · Open Source Enthusiast
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=6C63FF&center=true&vCenter=true&width=500&lines=Building+AI-powered+web+applications;MERN+Stack+%2B+Next.js+Developer;NLP+%7C+LLMs+%7C+Agentic+AI+Explorer;Turning+complex+ideas+into+real+products+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=6C63FF&center=true&vCenter=true&width=500&lines=Building+AI-powered+web+applications;MERN+Stack+%2B+Next.js+Developer;RAG+%7C+LLMs+%7C+Agentic+AI+Learner;Scalable+Architecture+%7C+DSA+Algorithms)](https://git.io/typing-svg)
 
 <img src="https://komarev.com/ghpvc/?username=Kaushal-15&label=Profile+views&color=6C63FF&style=for-the-badge" alt="Profile views" />
 
@@ -11,7 +11,7 @@
 
 ---
 
-## 🧠 About Me
+## About Me
 
 ```ts
 const kaushal = {
@@ -28,7 +28,7 @@ const kaushal = {
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 ### 🔷 [LegitMind](https://github.com/Kaushal-15/LegitMind) — AI Legal Document Simplifier
 > *Next.js · Node.js · Python · NLP · LLMs · MongoDB*
@@ -50,7 +50,7 @@ const kaushal = {
 
 ---
 
-## 💼 Work Experience
+## Work Experience
 
 **Full Stack Developer Intern** · Smart Home Healthcare Technologies *(May–Jul 2025)*
 - Built an intelligent AI-powered patient monitoring system for real-time vitals tracking
@@ -64,24 +64,22 @@ const kaushal = {
 
 <div align="center">
 
-**Languages**
-
+### Languages
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 
-**Frontend**
-
+### Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 
-**Backend & Databases**
-
+### Backend & Databases
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
@@ -89,8 +87,7 @@ const kaushal = {
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 
-**DevOps & Cloud**
-
+### DevOps & Cloud
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
@@ -98,17 +95,23 @@ const kaushal = {
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
 ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
 
-**AI / ML**
-
-![NLP](https://img.shields.io/badge/NLP-FF6F00?style=flat-square&logo=openai&logoColor=white)
-![LLMs](https://img.shields.io/badge/LLMs-412991?style=flat-square&logo=anthropic&logoColor=white)
+### AI / ML
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-6A5ACD?style=flat-square)
+![RAG](https://img.shields.io/badge/RAG-Retrieval--Augmented--Generation-blue?style=flat-square)
 ![Agentic AI](https://img.shields.io/badge/Agentic%20AI-00B4D8?style=flat-square)
 
-</div>
+### Architecture & Design
+![System Design](https://img.shields.io/badge/System%20Design-0F172A?style=flat-square)
+![HLD](https://img.shields.io/badge/HLD-2563EB?style=flat-square)
+![LLD](https://img.shields.io/badge/LLD-059669?style=flat-square)
+![Design Patterns](https://img.shields.io/badge/Design%20Patterns-8B5CF6?style=flat-square)
+![UML](https://img.shields.io/badge/UML-E11D48?style=flat-square)
 
+</div>
 ---
 
-## 📜 Certifications
+## Certifications
 
 | Certificate | Issuer |
 |-------------|--------|
@@ -121,7 +124,7 @@ const kaushal = {
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Kaushal-15&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160"/>
