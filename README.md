@@ -16,7 +16,7 @@
 ```ts
 const kaushal = {
   role:       "Aspiring SDE | Full Stack & AI Developer",
-  education:  "Diploma in Computer Technology @ Kongu Polytechnic — CGPA 9.96/10",
+  education:  "B.Tech Information Technology @PSG TECH",
   location:   "Tamil Nadu, India",
   focus:      ["AI-powered platforms", "Scalable backend systems", "Agentic AI"],
   currently:  "Building Learning.AI — a personalized AI learning platform",
