@@ -14,7 +14,7 @@
 ## About Me
 
 ```ts
-const kaushal = {
+const Kaushal = {
   role:       "Aspiring SDE | Full Stack & AI Developer",
   education:  "B.Tech Information Technology @PSG TECH",
   location:   "Tamil Nadu, India",
@@ -30,16 +30,6 @@ const kaushal = {
 
 ## Featured Projects
 
-### 🔷 [LegitMind](https://github.com/Kaushal-15/LegitMind) — AI Legal Document Simplifier
-> *Next.js · Node.js · Python · NLP · LLMs · MongoDB*
-
-- Built an AI-powered platform that simplifies complex legal documents using NLP and Large Language Models
-- Engineered a document parsing engine that extracts key clauses — reducing manual review time by ~50%
-- Designed RESTful APIs in Node.js for scalable concurrent document processing
-- Architected modular backend systems for high-throughput pipeline efficiency
-
----
-
 ### 🔶 [Learning.AI](https://github.com/Kaushal-15/Learning.AI) — Personalized AI Learning Platform
 > *React.js · Node.js · Express.js · MongoDB · Python*
 
@@ -49,6 +39,29 @@ const kaushal = {
 - Improved user engagement through personalized content delivery and performance-driven insights
 
 ---
+
+### 🏛️ [SQL Data Warehouse](https://github.com/Kaushal-15/sql-data-warehouse-project) — Medallion Architecture on SQL Server
+> *SQL Server · T-SQL · ETL · Data Modeling · Star Schema*
+
+- Designed a modern data warehouse using Bronze, Silver and Gold layers to consolidate CRM and ERP sales data
+- Built T-SQL ETL pipelines for ingestion, cleansing, standardization and transformation
+- Modeling business-ready data into a star schema for BI reporting and ad-hoc SQL analysis
+- Documented architecture, data lineage and naming conventions
+
+---
+
+### 🔷 [LegitMind](https://github.com/Kaushal-15/LegitMind) — AI Legal Document Simplifier
+> *Next.js · Node.js · Python · MongoDB*
+
+- Built an AI-powered platform that simplifies complex legal documents and extracts key clauses
+- Reduced manual review time by ~50% through automated clause extraction
+- Designed modular RESTful APIs in Node.js for concurrent document processing
+- Added context-based confidence scoring and smart workflow automation
+
+---
+
+### 🧪 More Projects
+Many smaller projects and experiments are available in my [repositories](https://github.com/Kaushal-15?tab=repositories).
 
 ## Work Experience
 
@@ -85,6 +98,7 @@ const kaushal = {
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 
 ### DevOps & Cloud
